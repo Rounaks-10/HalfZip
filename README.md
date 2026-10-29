@@ -10,7 +10,7 @@ Huffman Coding is a lossless compression technique used to reduce the size of fi
 
    Run the compression command to compress the input file.
 
-   ![Compress Command](ADD_COMPRESS_COMMAND_SCREENSHOT_HERE)
+   ![Compress Command](Screenshots/Encode.png)
 
 3. **Compare the input and compressed file sizes**
 
@@ -18,23 +18,23 @@ Huffman Coding is a lossless compression technique used to reduce the size of fi
 
    **Input File Size**
 
-   ![Input File Size](ADD_INPUT_FILE_SIZE_SCREENSHOT_HERE)
+   ![Input File Size](Screenshots/Input.png)
 
    **Compressed File Size**
 
-   ![Compressed File Size](ADD_COMPRESSED_FILE_SIZE_SCREENSHOT_HERE)
+   ![Compressed File Size](Screenshots/Compress.png)
 
 4. **Decompress the file**
 
    Run the decompression command to recover the original file from the compressed file.
 
-   ![Decompress Command](ADD_DECOMPRESS_COMMAND_SCREENSHOT_HERE)
+   ![Decompress Command](Screenshots/Decode.png)
 
 5. **Check the output file size**
 
    After decompression, check the size of the output file and compare it with the original input file.
 
-   ![Output File Size](ADD_OUTPUT_FILE_SIZE_SCREENSHOT_HERE)
+   ![Output File Size](Screenshots/Output.png)
 
 6. **Compare the input and output files**
 
