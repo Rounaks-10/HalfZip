@@ -40,4 +40,4 @@ Huffman Coding is a lossless compression technique used to reduce the size of fi
 
    Finally, compare the contents of the original input file and the decompressed output file to verify that the data has been restored correctly without any loss.
 
-   ![Input and Output File Comparison](ADD_FILE_COMPARISON_SCREENSHOT_HERE)
+   ![Input and Output File Comparison](Screenshots/Text.png)
